@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HannahHaaland
-- 🌱 I’m a student in the Master in Applied Data Science Program at UiS
+- 🌱 I’m a student in the Master in Applied Data Science Program at Universitet i Stavanger
 - 👀 I’m interested in biomedical data analysis
 - 📫 I can be contacted on han.haaland@stud.uis.no
 
