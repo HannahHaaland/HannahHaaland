@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahHaaland
 - 🌱 I’m a student in the Master in Applied Data Science Program at the University of Stavanter (Universitet i Stavanger)
-- 👀 I’m interested in biomedical data analysis
+- 👀 I’m interested in data science, medical imaging, machine learning
 - 📫 I can be contacted on han.haaland@stud.uis.no
 
 <!---
